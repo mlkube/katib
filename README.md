@@ -1,3 +1,5 @@
+`/mlkube/katib` is deprecated. We are developping hyperparameter tuning in [kubeflow/hp-tuning](https://github.com/kubeflow/hp-tuning) repo.
+
 # Katib
 HyperParamete Tuning on Kubernetes.
 This project is [Google vizier](https://static.googleusercontent.com/media/research.google.com/ja//pubs/archive/bcb15507f4b52991a0783013df4222240e942381.pdf) inspired.
